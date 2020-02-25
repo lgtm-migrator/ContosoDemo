@@ -1,7 +1,3 @@
-[![Board Status](https://dev.azure.com/brcross/a13bdbc1-b5f1-4e2f-ba9a-a9d8aa8c611c/8ae82d2a-8f1a-4702-9035-54f493ddc4bf/_apis/work/boardbadge/8d4d6052-54ad-4288-a976-212860984251)](https://dev.azure.com/brcross/a13bdbc1-b5f1-4e2f-ba9a-a9d8aa8c611c/_boards/board/t/8ae82d2a-8f1a-4702-9035-54f493ddc4bf/Microsoft.RequirementCategory)
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
-
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
