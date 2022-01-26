@@ -1,5 +1,7 @@
 [![Board Status](https://dev.azure.com/brcross/a13bdbc1-b5f1-4e2f-ba9a-a9d8aa8c611c/8ae82d2a-8f1a-4702-9035-54f493ddc4bf/_apis/work/boardbadge/8d4d6052-54ad-4288-a976-212860984251)](https://dev.azure.com/brcross/a13bdbc1-b5f1-4e2f-ba9a-a9d8aa8c611c/_boards/board/t/8ae82d2a-8f1a-4702-9035-54f493ddc4bf/Microsoft.RequirementCategory)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/eb99f93d-c479-46e3-b0f5-45ee753aebd9.svg?orgId=547292756607)](https://app.soluble.cloud/repos/details/github.com/bidnessforb/contosodemo?orgId=547292756607)  
+
 
 # Microsoft.Github CI Demo
 
